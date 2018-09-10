@@ -1,24 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Coding Blog</title>
-    <link>https://ianbibby.github.io/</link>
-    <description>Recent content on Coding Blog</description>
+    <title>Posts on Coding Blog</title>
+    <link>https://ianbibby.github.io/posts/</link>
+    <description>Recent content in Posts on Coding Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright &amp;copy; 2017 - Ian Bibby</copyright>
-    <lastBuildDate>Sun, 09 Sep 2018 18:38:42 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 09 Sep 2018 18:36:23 -0700</lastBuildDate>
     
-	<atom:link href="https://ianbibby.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ianbibby.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>About</title>
-      <link>https://ianbibby.github.io/about/</link>
-      <pubDate>Sun, 09 Sep 2018 18:38:42 -0700</pubDate>
-      
-      <guid>https://ianbibby.github.io/about/</guid>
-      <description>Hello.</description>
-    </item>
     
     <item>
       <title>First Post</title>
