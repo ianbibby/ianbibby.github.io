@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>Gophercon 2018</title>
+      <link>https://ianbibby.github.io/posts/gophercon-2018/</link>
+      <pubDate>Sun, 16 Sep 2018 10:43:54 -0700</pubDate>
+      
+      <guid>https://ianbibby.github.io/posts/gophercon-2018/</guid>
+      <description>Looks like GopherCon 2018 was a great one in Denver, CO, with deep talks around implementing network protocols and ML too more general topics like how we structure our Go projects.</description>
+    </item>
+    
+    <item>
       <title>First Post</title>
       <link>https://ianbibby.github.io/posts/first-post/</link>
       <pubDate>Sun, 09 Sep 2018 18:36:23 -0700</pubDate>
